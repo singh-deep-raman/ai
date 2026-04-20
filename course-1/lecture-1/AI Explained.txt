@@ -1,0 +1,40 @@
+* LLM stands for Large Language Model
+* LLM is trained on massive amount of text.
+* Main players of LLM
+    * ChatGPT
+    * Claude
+    * Gemini
+
+* GPT - It is the neural network on which the LLM is trained
+    * Generative - because it creates new text
+    * Pretrained - it learns from data
+    * Transformer -
+
+* LLM inference
+    * When model generates a response, it is called inference
+    * It generates the response on the basis of trained data by checking what is the best probability of the answer
+
+* Tokens
+    * Input you enter is broken down into tokens
+
+* Context Window
+    * It is the memory of the LLM for the current chat
+
+* Embedding
+    * Giving tokens a high level info like day-night, hot-cold
+
+* Attention
+    * A single word can mean multiple things like bat can be an animal or a baseball bat or a cricket bat
+    * So LLMs try to look for the words around the word to get the complete picture and it is called Attention
+    * It helps the model to stay focussed and resolves ambiguity
+
+* Multi Layer Perceptrons (MLP)
+    * It is the behind the scenes editor
+
+* Inference
+    * It is the final output
+
+There's a pdf in Video 5
+
+
+
