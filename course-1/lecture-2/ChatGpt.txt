@@ -1,0 +1,16 @@
+# ChatGPT
+
+* You can send a prompt and then edit that prompt to see different response at once, without the needing to scroll up and down
+* Projects in ChatGPT allows you to group stuff together, like chats and files associated with those chats
+* Temporary Chat allows you to send sensitive information which will not be saved or used by ChatGPT to train models (don't rely on it with your office sensitive data, it's only for personal sensitive data)
+* Customise ChatGPT - allows you to set the tone for the conversations, tell ChatGPT what you do and what type of response you expect for each new subsequent prompts/chats
+* In the left pane bar, there is an option 'GPTs' which has predefined versions of ChatGPT for specific use cases like SEO, Content Writing and so on. Explore on your own.
+    * AI tool for speaking skills enhancement (https://talk.speakpal.ai/talk?teacher_id=64)
+* Deep Research button helps you find information which has been researched by lots of people
+
+Customisation of ChatGPT
+* You need to personalise ChatGPT by providing it some details about you and the kind of response you want
+    * You need to tell it your name, occupation, what traits ChatGPT should have, what else ChatGPT should know in the personalisation section
+
+
+
