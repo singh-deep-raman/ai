@@ -1,0 +1,17 @@
+* Prompt is the input to the AI
+* 6 core elements of good prompting
+    * Role - tell AI what role to assume (like imagine you are a travel advisor)
+    * Context - give some context of what are you problems or what you want to achieve
+    * Instructions - it is the clear goal
+    * Formatting - tell how you want the response to be
+    * Boundaries - tell boundaries like budget, location of hotel etc
+    * Example - give some example
+* You can go one step beyond and ask AI to generate the prompt for you. It is called Meta-Prompting.
+* A good AI Prompter is really good at tweaking Prompts. Refine your prompts so that you reach the optimum level.
+* Tweaking of the prompt is done in iterations, by carefully reviewing the information/response given by AI
+* Prompt Priming
+    * It means preparing a thread with as much relevant context as possible, before you send the original prompt
+* You can use Prompster chrome extension to remember your prompts or create prompts. It is free.
+    https://chromewebstore.google.com/detail/prompster/fbagfekcjdidpmmookklbaeddgkjddml
+* You can also use PromptHub, but it is paid
+    https://www.prompthub.us/
