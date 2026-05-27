@@ -1,0 +1,11 @@
+Deep Research
+* It searches the whole content on internet and doesn't give answers using LLMs
+* It doesn't return results immediately as it needs to scan the whole internet and can take roughly from minutes to half an hour
+* There is a limit to Deep Research requests per account. So, double check your prompt to get best results possible in one shot only.
+
+Canvas
+* It is a collaborative doc space in-built in ChatGPT
+
+Image Creation
+* You can create images for your promotion, presentations and much more.
+
