@@ -1,0 +1,12 @@
+GPT
+* GPT stands for Generative Pretrained Transformer
+* It is an advanced AI model designed to understand and generate human-like text
+* GPTs can be fine-tuned for specific tasks
+* Analogy
+    Chat GPT is like a smartphone
+    Custom GPT is like an app in that smartphone
+* You can explore GPTs in 'Explore GPTs' section of ChatGPT
+    1. Viral LinkedIn Post Generator - for viral linkedin posts
+    2. Whimsical Diagrams
+    3. Research AI
+    4. Video GPT by VEED
