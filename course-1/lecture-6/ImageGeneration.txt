@@ -1,0 +1,28 @@
+How AI Generates Images
+* It is trained on millions of images
+* It builds from scratch, pixel by pixel
+
+
+GANs [Painter]
+* It stands for Generative Adversarial Networks
+* Generator: produces fake images designed to look real [G]
+* Discriminator: tests each image, spotting fakes vs real
+* Adversarial Process:A continuous feedback loop that sharpens both - like an endless art battle
+
+VAEs [Architects]
+* Compress, Imagine, Rebuild
+* It compresses an image into a thing called Latent Space
+* It takes sample points from this Latent Space to create new realistic images
+* It is great for generating smooth controlled variations
+
+Diffusion Models [Sculptor]
+* AI learns both to destroy (add noise) and rebuild (remove noise)
+* Slower than GANs
+
+Your prompt is the recipe for your chef (AI)
+
+Today's top AI Image Tools
+* MidJourney
+* 40 Image Generation
+* Stable Diffusion
+* ChatGPT Image Generation
