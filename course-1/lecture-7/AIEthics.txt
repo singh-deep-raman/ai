@@ -1,0 +1,5 @@
+AI Ethics and Future-Proofing
+* In ChatGPT Settings, make sure Data controls -> Improve the model for everyone, feature is off. It will not allow ChatGPT to train their model using your data.
+* Also in Personalisation, make sure Memory option is disabled. It will not reference your old chats to generate new response.
+* But thumb rule is 'Never share sensitive information with any model'
+
