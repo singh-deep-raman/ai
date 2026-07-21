@@ -1,0 +1,8 @@
+* You can create your own custom GPT tailored to your needs
+* You can create a custom GPT using ChatGPT, go to Explore GPTs section and there will be a button to create GPT
+    * Fill out all the details
+    * You need to upload files which will train your GPT. It is the data.
+    * There are predefined Capabilities (Web Search, Canvas, 40 Image Generation). But you can create Actions.
+* Take help from ChatGPT by providing prompts on how to create Custom GPT
+* You will test it on the fly and click on Share GPT so that others can use it.
+
